@@ -1,0 +1,31 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/l9Jxgebc)
+
+- Run "make" in this directory(course-project-team_48)
+- For naming server, run "NamingServer/run_naming_server <port> <NM_IP>"
+- For storage server, run "StorageServer/run_storage_server <NM_IP> <NM_Port> <client_port> <SERVER_Port> <Server_ip>"
+- For client, run "client/run_client <NM_Port> <NM_ip>"
+
+- The accessible paths given from storage server and client terminal are given relative to this directory(course-project-team_48).
+- Operations:
+    - CREATE <path>
+    - DELETE <path>
+    - READ <path>
+    - WRITE <path>
+    - GET <path>
+    - LIST <path>
+    - ACCESS_LIST
+    - STREAM <path>
+    - COPY <src_path> <dest_path>
+- ERROR codes: 
+    - 1 - Path is not accessible
+    - 2 - Error opening file
+    - 3 - Error getting folder information
+    - 4 - Error getting file information
+    - 5 - Memory allocation failed
+    - 6 - Error creating file
+    - 7 - Error receiving data
+    - 8 - Error reading input
+    - 9 - Failed to read client request
+    - 10 - Error writing to file
+    - 11 - Error opening folder
+    - 12 - Error getting parent folder information

@@ -1,0 +1,73 @@
+Client request: READ ./client/main.c - SS Port: 8000, IP: 192.168.96.115
+Client request: WRITE ./client/sample.txt - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: READ ./client/main.c - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client/main.c - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: LIST ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: CREATE ./client/test - Received ack from ss port: 5000, ip: 192.168.96.115
+Client request: COPY - Received from source ss port: 5000, ip: 192.168.96.115
+Client request: COPY - Received ack from destination ss port: 5000, ip: 192.168.96.115
+Client request: DELETE ./client/test - Received ack from ss port: 5000, ip: 192.168.96.115
+Client request: READ ./root_directory/dir_pbcui/dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca/file_oro.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca/dir_ccftl - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./client - SS Port: 8001, IP: 10.1.100.226
+Client request: GET ./dir_bzaca - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: LIST ./dir_bzaca - SS Port: 8000, IP: 10.1.100.226
+Client request: STREAM ./client/3.mp3 - SS Port: 8001, IP: 10.1.100.226
+Client request: CREATE ./dir_bzaca/newfile.txt - Received ack from ss port: 5000, ip: 10.1.100.226
+Client request: DELETE ./dir_bzaca/newfile.txt - Received ack from ss port: 5000, ip: 10.1.100.226
+Client request: READ ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: READ /dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca/dir_ccftl - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_bzaca - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_bzaca/file_qsw.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca/file_qsw.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_bzaca - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./main.c - SS Port: 8001, IP: 10.1.100.226
+Client request: GET . - SS Port: 8001, IP: 10.1.100.226
+Client request: GET ./main.c - SS Port: 8001, IP: 10.1.100.226
+Client request: READ ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.42.0.245
+Client request: GET ./dir_bzaca/file_qsw.txt - SS Port: 8000, IP: 10.42.0.245
+Client request: GET ./dir_bzaca - SS Port: 8000, IP: 10.42.0.245
+Client request: READ ./dir_bzaca/file_ofr.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_rzuni/dir_eqfej/file_wux.txt - SS Port: 8001, IP: 10.1.100.226
+Client request: GET ./dir_pfaau/student_song/your_song.mp3 - SS Port: 8002, IP: 10.1.100.226
+Client request: STREAM ./dir_pfaau/student_song/your_song.mp3 - SS Port: 8002, IP: 10.1.100.226
+Client request: READ ./dir_sptuh/file_ytw.txt - SS Port: 8003, IP: 10.42.0.1
+Client request: READ ./dir_sptuh - SS Port: 8003, IP: 10.42.0.1
+Client request: LIST ./dir_bzaca - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_sptuh/file_ytw.txt - SS Port: 8003, IP: 10.42.0.1
+Client request: STREAM ./dir_pfaau/coldplay.mp3 - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_pfaau/file_bdi.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: STREAM ./dir_pfaau/coldplay.mp3 - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_pfaau/file_bdi.txt - SS Port: 8000, IP: 10.1.100.226
+Client request: GET ./dir_pfaau - SS Port: 8000, IP: 10.1.100.226
+Client request: READ ./dir_ctpcj/dir_hfccx/here.txt - SS Port: 8002, IP: 10.1.100.226
+Client request: READ ./dir_picqp/dir_picaz/dir_tnaqz - SS Port: 8005, IP: 10.1.100.226
+Client request: WRITE ./dir_picqp/dir_picaz/dir_tnaqz/file_lcchehe.txt - SS Port: 8005, IP: 10.1.100.226
+Client request: GET ./dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt - SS Port: 8005, IP: 10.1.100.226
+Client request: GET ./dir_picqp/dir_picaz/dir_tnaqz - SS Port: 8005, IP: 10.1.100.226
+Client request: GET ./dir_picqp/dir_picaz/dir_tnaqz/file_lcchehe.txt - SS Port: 8005, IP: 10.1.100.226
+Client request: STREAM ./dir_pfaau/dir_cscou/dir_mbbdr/file_mpe.txt - SS Port: 8005, IP: 10.1.100.226
+Client request: CREATE ./dir_bqays/dir_hlxuh/whats.txt - Received ack from ss port: 5003, ip: 10.1.100.226
+Client request: CREATE ./dir_bqays/dir_hlxuh/tempqqh - Received ack from ss port: 5003, ip: 10.1.100.226
+Client request: CREATE ./dir_bqays/dir_hlxuh/hi.txt - Received ack from ss port: 5003, ip: 10.1.100.226
+Client request: CREATE ./dir_bqays/dir_hlxuh/hi.txt/tempqqh2 - Received ack from ss port: 5003, ip: 10.1.100.226
+Client request: DELETE ./dir_bqays/dir_hlxuh/whats.txt - Received ack from ss port: 5003, ip: 10.1.100.226
+Client request: DELETE ./dir_bqays/dir_hlxuh/tempqqh - Received ack from ss port: 5003, ip: 10.1.100.226
+Client request: DELETE ./dir_bqays/dir_hlxuh/hi.txt - Received ack from ss port: 5003, ip: 10.1.100.226
+Client request: COPY - Received from source ss port: 5006, ip: 10.1.100.226
+Client request: COPY - Received ack from destination ss port: 5007, ip: 10.1.100.226
+Client request: COPY - Received from source ss port: 5007, ip: 10.1.100.226
+Client request: COPY - Received ack from destination ss port: 5007, ip: 10.1.100.226

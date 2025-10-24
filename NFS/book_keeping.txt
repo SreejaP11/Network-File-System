@@ -1,0 +1,12 @@
+Client request: READ ./client/main.c - SS Port: 8000, IP: 192.168.96.115
+Client request: WRITE ./client/sample.txt - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: READ ./client/main.c - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client/main.c - SS Port: 8000, IP: 192.168.96.115
+Client request: GET ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: LIST ./client - SS Port: 8000, IP: 192.168.96.115
+Client request: CREATE ./client/test - Received ack from ss port: 5000, ip: 192.168.96.115
+Client request: COPY - Received from source ss port: 5000, ip: 192.168.96.115
+Client request: COPY - Received ack from destination ss port: 5000, ip: 192.168.96.115
+Client request: DELETE ./client/test - Received ack from ss port: 5000, ip: 192.168.96.115
